@@ -22,6 +22,9 @@ class ApplicationController < Sinatra::Base
 
   end
 
+  post '/login' do
+    
+  end
 
 end
 
